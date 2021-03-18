@@ -22,4 +22,5 @@ This project was made using Python 3, NumPy and Pandas using Anaconda.
 <li>station_stats()</li>
 <li>trip_duration_stats()</li>
 <li>user_stats()</li>
+<li>display_data()</li>
 </ul>
